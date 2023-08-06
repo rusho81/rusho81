@@ -1,10 +1,10 @@
-### Hi there,Nice to meet you. 👋
+### Hi there, Nice to meet you. 👋
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/PHP-7982b8?logo=php&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Laravel-f13b2e?logo=laravel&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL-007591?logo=mysql&style=flat-square&logoColor=white)
-![Static Badge](https://img.shields.io/badge/phpMyAdmin-f37622?logo=phpmyadmin&style=flat-square)
+![Static Badge](https://img.shields.io/badge/phpMyAdmin-4caf50?logo=phpmyadmin&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/JSON_Web_Token-fc0053?logo=jsonwebtokens&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/HTML5-dd4b24?logo=html5&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-2862e8?logo=css3&style=flat-square&logoColor=white)
