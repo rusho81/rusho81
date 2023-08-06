@@ -1,12 +1,14 @@
 ### Hi there,Nice to meet you. 👋
 
-![Static Badge](https://img.shields.io/badge/Java_Script-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript&style=plastic)
 ![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS-green?logo=css3)
+![Static Badge](https://img.shields.io/badge/CSS3-green?logo=css3)
 ![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel)
 ![Static Badge](https://img.shields.io/badge/PHP-red?logo=php)
 ![Static Badge](https://img.shields.io/badge/PHPMyAdmin-green?logo=phpmyadmin)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu)
+![Static Badge](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&style=plastic)
+![Static Badge](https://img.shields.io/badge/TailwindCss-blue?logo=tailwindcss&style=plastic)
 # About Me
 
 Hello there! 👋 I'm Quazi Tariqul Alam, a passionate Laravel developer with six months of hands-on experience. I'm enthusiastic about crafting efficient and elegant solutions using Laravel's powerful features.
