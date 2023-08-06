@@ -1,6 +1,6 @@
 ### Hi there,Nice to meet you. 👋
 
-![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Java-Script-blue?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-green?logo=css3)
 ![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel)
