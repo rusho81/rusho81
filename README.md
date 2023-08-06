@@ -5,10 +5,12 @@
 ![Static Badge](https://img.shields.io/badge/Laravel-f13b2e?logo=laravel&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL-007591?logo=mysql&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/phpMyAdmin-f37622?logo=phpmyadmin&style=flat-square)
+![Static Badge](https://img.shields.io/badge/JSON_Web_Token-fc0053?logo=jsonwebtokens&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/HTML5-dd4b24?logo=html5&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-2862e8?logo=css3&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-8410f5?logo=bootstrap&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TailwindCss-07b0cf?logo=tailwindcss&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-black?logo=git&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-f57421?logo=ubuntu&style=flat-square&logoColor=white)
 
 
@@ -32,13 +34,6 @@ As I continue to explore the Laravel ecosystem, my goal is to deepen my understa
 ## Let's Connect!
 
 If you're as passionate about Laravel as I am, or if you're looking to collaborate on exciting web projects, don't hesitate to reach out! Connect with me on [LinkedIn](http://www.linkedin.com/in/quazi-tariqul-alam-75878187) or drop me an email at [rushokazi@gmail.com](mailto:rushokazi@gmail.com). Let's create something remarkable together!
-
-## Skills
-- PHP
-- Laravel
-- MySQL
-- HTML/CSS
-  
 
 
 ## Contact
