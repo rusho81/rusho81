@@ -16,7 +16,7 @@
 
 # About Me
 
-Hello there! I'm Quazi Tariqul Alam, a passionate Laravel developer with six months of hands-on experience. I'm enthusiastic about crafting efficient and elegant solutions using Laravel's powerful features. I'm open to work and employment opporchunities.
+Hello there! I'm Quazi Tariqul Alam, a passionate Laravel developer with six months of hands-on experience. I'm enthusiastic about crafting efficient and elegant solutions using Laravel's powerful features. I'm open to work and employment opportunities.
 
 ## My Journey
 
