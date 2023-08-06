@@ -13,24 +13,14 @@
 ![Static Badge](https://img.shields.io/badge/Git-black?logo=git&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-f57421?logo=ubuntu&style=flat-square&logoColor=white)
 
+:pushpin:Hello there! I'm Quazi Tariqul Alam, a passionate Laravel developer with six months of hands-on experience. I'm enthusiastic about crafting efficient and elegant solutions using Laravel's powerful features.
 
-# About Me
-
-Hello there! I'm Quazi Tariqul Alam, a passionate Laravel developer with six months of hands-on experience. I'm enthusiastic about crafting efficient and elegant solutions using Laravel's powerful features. I'm open to work and employment opportunities.
-
-## My Journey
-
-In the past six months, I've immersed myself in the world of Laravel and have been amazed by its capabilities. I've successfully developed and contributed to projects that leverage Laravel's MVC architecture, Eloquent ORM, Blade templating engine, and artisan command-line tool.
-
-## What I Love
-
-Laravel has provided me with the tools to create robust web applications with ease. I enjoy building dynamic and user-friendly interfaces using Blade templates, designing efficient database schemas with Eloquent, and optimizing application performance through caching and other techniques.
-
-## My Goals
-
-As I continue to explore the Laravel ecosystem, my goal is to deepen my understanding of advanced concepts such as API development, package creation etc. I'm excited to contribute to open-source Laravel projects and collaborate with fellow developers to build amazing digital experiences.
-
+:pushpin:In the past six months, I've immersed myself in the world of Laravel and have been amazed by its capabilities. I've successfully developed and contributed to projects that leverage Laravel's MVC architecture, Eloquent ORM, Blade templating engine, and RESTful API.
+- :books:I love to read books and travel:beach_umbrella:
+- :evergreen_tree:Learning something new is my passion.
+- :office_worker:I’m open for work opportunities (remote and relocation):airplane:
+- :postbox: Email me if you wish - [rushokazi at gmail dot com]
 
 ## Contact
-- Email: rushokazi at gmail dot com
+
 - LinkedIn: [Quazi Tariqul Alam](http://www.linkedin.com/in/quazi-tariqul-alam-75878187)
