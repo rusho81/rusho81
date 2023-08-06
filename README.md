@@ -1,15 +1,15 @@
 ### Hi there,Nice to meet you. 👋
 
-![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
-![Static Badge](https://img.shields.io/badge/PHP-red?logo=php)
-![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel)
-![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Static Badge](https://img.shields.io/badge/PHPMyAdmin-green?logo=phpmyadmin)
-![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS3-green?logo=css3)
-![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu)
-![Static Badge](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap)
-![Static Badge](https://img.shields.io/badge/TailwindCss-blue?logo=tailwindcss)
+![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript&style=flat-square)
+![Static Badge](https://img.shields.io/badge/PHP-red?logo=php&style=flat-square)
+![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel&style=flat-square)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=flat-square)
+![Static Badge](https://img.shields.io/badge/PHPMyAdmin-green?logo=phpmyadmin&style=flat-square)
+![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5&style=flat-square)
+![Static Badge](https://img.shields.io/badge/CSS3-green?logo=css3&style=flat-square)
+![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu&style=flat-square)
+![Static Badge](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&style=flat-square)
+![Static Badge](https://img.shields.io/badge/TailwindCss-blue?logo=tailwindcss&style=flat-square)
 
 # About Me
 
