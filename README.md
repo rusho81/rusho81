@@ -23,7 +23,7 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/quazi-tariqul-alam-75878187" target="blank">
+<a href="https://www.linkedin.com/in/quazi-tariqul-alam-75878187" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=flat-square&logoColor=white" />
 </a>
 
