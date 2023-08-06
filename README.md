@@ -13,6 +13,8 @@ In the past six months, I've immersed myself in the world of Laravel and have be
 ## What I Love
 
 Laravel has provided me with the tools to create robust web applications with ease. I enjoy building dynamic and user-friendly interfaces using Blade templates, designing efficient database schemas with Eloquent, and optimizing application performance through caching and other techniques.
+![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/javascript-green?logo=html5)
 
 ## My Goals
 
