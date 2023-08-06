@@ -1,15 +1,15 @@
 ### Hi there,Nice to meet you. 👋
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=javascript&style=flat-square)
-![Static Badge](https://img.shields.io/badge/PHP-red?logo=php&style=flat-square)
-![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel&style=flat-square)
-![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=flat-square)
+![Static Badge](https://img.shields.io/badge/PHP-red?logo=php&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PHPMyAdmin-green?logo=phpmyadmin&style=flat-square)
-![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5&style=flat-square)
-![Static Badge](https://img.shields.io/badge/CSS3-green?logo=css3&style=flat-square)
-![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu&style=flat-square)
-![Static Badge](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&style=flat-square)
-![Static Badge](https://img.shields.io/badge/TailwindCss-blue?logo=tailwindcss&style=flat-square)
+![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-green?logo=css3&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TailwindCss-blue?logo=tailwindcss&style=flat-square&logoColor=white)
 
 # About Me
 
