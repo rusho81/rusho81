@@ -1,7 +1,12 @@
 ### Hi there,Nice to meet you. 👋
 
-# Quazi Tariqul Alam - Laravel Developer
-
+![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-green?logo=css3)
+![Static Badge](https://img.shields.io/badge/Laravel-black?logo=laravel)
+![Static Badge](https://img.shields.io/badge/PHP-red?logo=php)
+![Static Badge](https://img.shields.io/badge/PHPMyAdmin-green?logo=phpmyadmin)
+![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu)
 # About Me
 
 Hello there! 👋 I'm Quazi Tariqul Alam, a passionate Laravel developer with six months of hands-on experience. I'm enthusiastic about crafting efficient and elegant solutions using Laravel's powerful features.
@@ -13,8 +18,7 @@ In the past six months, I've immersed myself in the world of Laravel and have be
 ## What I Love
 
 Laravel has provided me with the tools to create robust web applications with ease. I enjoy building dynamic and user-friendly interfaces using Blade templates, designing efficient database schemas with Eloquent, and optimizing application performance through caching and other techniques.
-![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
-![Static Badge](https://img.shields.io/badge/javascript-green?logo=html5)
+
 
 ## My Goals
 
