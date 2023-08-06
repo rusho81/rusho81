@@ -7,9 +7,10 @@
 ![Static Badge](https://img.shields.io/badge/PHPMyAdmin-green?logo=phpmyadmin&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/HTML5-green?logo=html5&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-green?logo=css3&style=flat-square&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-blue?logo=bootstrap&style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TailwindCss-blue?logo=tailwindcss&style=flat-square&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ubuntu-green?logo=ubuntu&style=flat-square&logoColor=white)
+
 
 # About Me
 
